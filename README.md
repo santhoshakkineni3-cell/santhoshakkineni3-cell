@@ -25,7 +25,7 @@
 
 🎓 B.Tech Computer Science Engineering student at **Woxsen University**, Hyderabad  
 
-📈 CGPA: **8.0 / 10** *(Ongoing)*
+📈 CGPA: **8.02 / 10** *(Ongoing)*
 
 🔥 Passionate about **Software Development, AI, Full Stack & Innovation**
 
