@@ -45,12 +45,12 @@
 
 | 🚀 Project | 💡 Description |
 |-----------|----------------|
-| AI Resume Screening System | Full Stack AI recruitment platform for smart candidate shortlisting |
-| HR Analytics Prediction | ML model to forecast employee attrition risks |
-| Adaptive Learning Platform | Personalized smart education recommendation system |
-| Udemy Popularity Predictor | Predict course success using analytics |
-| Handwritten Recognition | CRNN model for OCR text recognition |
-| Flood & Drought Predictor | Climate risk forecasting using ML |
+| ⭐ StratIQ™ Retail Intelligence Platform | AI-powered retail intelligence system with forecasting, market analytics, executive insights, and predictive business intelligence |
+| AI Resume Screening System | Full Stack AI recruitment platform for intelligent candidate shortlisting |
+| HR Analytics Prediction | Machine Learning system for workforce analytics and attrition prediction |
+| Adaptive Learning Platform | Personalized AI-powered education recommendation platform |
+| Udemy Popularity Predictor | Predict course success using engagement and rating analytics |
+| Handwritten Recognition | Deep Learning OCR system using CRNN architecture |
 
 ---
 
